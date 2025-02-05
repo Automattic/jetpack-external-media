@@ -5,11 +5,14 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-assets": "@dev"
+		"automattic/jetpack-assets": "^4.0.5-alpha",
+		"automattic/jetpack-connection": "^6.4.0-alpha",
+		"automattic/jetpack-constants": "^3.0.1",
+		"automattic/jetpack-status": "^5.0.3"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "@dev"
+		"automattic/jetpack-changelogger": "^5.1.0"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -32,15 +35,6 @@
 			"@composer phpunit"
 		]
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../../packages/*",
-			"options": {
-				"monorepo": true
-			}
-		}
-	],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
