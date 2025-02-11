@@ -6,7 +6,7 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-assets": "^4.0.5",
-		"automattic/jetpack-connection": "^6.4.0-alpha",
+		"automattic/jetpack-connection": "^6.4.0",
 		"automattic/jetpack-constants": "^3.0.1",
 		"automattic/jetpack-status": "^5.0.3"
 	},
@@ -44,7 +44,7 @@
 		},
 		"autotagger": true,
 		"branch-alias": {
-			"dev-trunk": "0.1.x-dev"
+			"dev-trunk": "0.2.x-dev"
 		},
 		"textdomain": "jetpack-external-media",
 		"version-constants": {
