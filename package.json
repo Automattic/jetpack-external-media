@@ -37,7 +37,7 @@
 	"dependencies": {
 		"@automattic/jetpack-ai-client": "^0.27.7-alpha",
 		"@automattic/jetpack-analytics": "^0.1.36",
-		"@automattic/jetpack-base-styles": "^0.6.46-alpha",
+		"@automattic/jetpack-base-styles": "^0.7.0-alpha",
 		"@automattic/jetpack-components": "^0.72.3-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.18.11-alpha",
 		"@automattic/request-external-access": "1.0.1",
