@@ -8,6 +8,7 @@
 		"automattic/jetpack-assets": "^4.3.5",
 		"automattic/jetpack-connection": "^6.18.4",
 		"automattic/jetpack-constants": "^3.0.8",
+		"automattic/jetpack-external-connections": "^0.1.0-alpha",
 		"automattic/jetpack-status": "^6.0.3"
 	},
 	"require-dev": {
@@ -45,7 +46,7 @@
 		},
 		"autotagger": true,
 		"branch-alias": {
-			"dev-trunk": "0.4.x-dev"
+			"dev-trunk": "0.5.x-dev"
 		},
 		"textdomain": "jetpack-external-media",
 		"version-constants": {
