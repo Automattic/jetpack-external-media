@@ -23,7 +23,7 @@
 		"watch": "pnpm run build-production-js && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/jetpack-ai-client": "^0.34.3",
+		"@automattic/jetpack-ai-client": "^0.34.4-alpha",
 		"@automattic/jetpack-analytics": "^1.0.8",
 		"@automattic/jetpack-base-styles": "^1.0.18-alpha",
 		"@automattic/jetpack-components": "^1.4.16-alpha",
