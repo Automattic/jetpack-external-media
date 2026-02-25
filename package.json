@@ -27,7 +27,7 @@
 		"@automattic/jetpack-analytics": "^1.0.8",
 		"@automattic/jetpack-base-styles": "^1.0.18-alpha",
 		"@automattic/jetpack-components": "^1.4.16-alpha",
-		"@automattic/jetpack-script-data": "^0.5.5",
+		"@automattic/jetpack-script-data": "^0.6.0-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.1-alpha",
 		"@automattic/request-external-access": "1.0.1",
 		"@wordpress/api-fetch": "7.40.0",
