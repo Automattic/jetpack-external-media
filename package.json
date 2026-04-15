@@ -23,10 +23,10 @@
 		"watch": "pnpm run build-production-js && pnpm webpack watch"
 	},
 	"dependencies": {
-		"@automattic/jetpack-ai-client": "^0.34.11",
+		"@automattic/jetpack-ai-client": "^0.34.12-alpha",
 		"@automattic/jetpack-analytics": "^1.0.9",
 		"@automattic/jetpack-base-styles": "^1.0.21",
-		"@automattic/jetpack-components": "^1.8.1",
+		"@automattic/jetpack-components": "^1.8.2-alpha",
 		"@automattic/jetpack-script-data": "^0.6.2",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.8",
 		"@automattic/request-external-access": "1.0.1",
@@ -39,7 +39,7 @@
 		"@wordpress/element": "6.43.0",
 		"@wordpress/hooks": "4.43.0",
 		"@wordpress/i18n": "6.16.0",
-		"@wordpress/icons": "12.0.0",
+		"@wordpress/icons": "12.1.0",
 		"@wordpress/keycodes": "4.43.0",
 		"@wordpress/url": "4.43.0",
 		"clsx": "2.1.1",
