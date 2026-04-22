@@ -24,7 +24,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-ai-client": "^0.34.13",
-		"@automattic/jetpack-analytics": "^1.0.9",
+		"@automattic/jetpack-analytics": "^1.0.10-alpha",
 		"@automattic/jetpack-base-styles": "^1.1.0",
 		"@automattic/jetpack-components": "^1.8.3",
 		"@automattic/jetpack-script-data": "^0.6.2",
