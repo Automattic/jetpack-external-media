@@ -8,7 +8,7 @@
 		"automattic/jetpack-assets": "^4.4.2",
 		"automattic/jetpack-connection": "^8.7.5",
 		"automattic/jetpack-constants": "^3.0.12",
-		"automattic/jetpack-external-connections": "^0.1.34-alpha",
+		"automattic/jetpack-external-connections": "^0.1.34",
 		"automattic/jetpack-status": "^6.1.8"
 	},
 	"require-dev": {
