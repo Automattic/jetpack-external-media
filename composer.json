@@ -9,7 +9,7 @@
 		"automattic/jetpack-connection": "^8.8.1",
 		"automattic/jetpack-constants": "^3.0.12",
 		"automattic/jetpack-external-connections": "^0.1.38",
-		"automattic/jetpack-status": "^6.1.9"
+		"automattic/jetpack-status": "^6.2.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
